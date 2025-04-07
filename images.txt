@@ -1,1 +1,1 @@
-redis:6-alpine
+ubuntu/squid:latest
