@@ -1,1 +1,1 @@
-langgenius/dify-plugin-daemon:0.0.7-local
+node:22-alpine3.21
