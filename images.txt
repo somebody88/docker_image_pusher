@@ -1,1 +1,1 @@
-node:22-alpine3.21
+ubuntu:24.04
